@@ -39,7 +39,7 @@ The system continuously monitors the room using multiple sensors.
 
 ## 📸 Project Preview
 
-![Smart Room Security & Climate Alert System]([PASTE_IMAGE_LINK_HERE](https://raw.githubusercontent.com/Alamin9462/Smart-Room-Security-Climate-Alert-System/816fba99bd54e6d1cbae32c2ea09c206fb41c3cf/Room%20security%201.PNG))
+![Smart Room Security & Climate Alert System](https://via.placeholder.com/1200x600.png?text=Smart+Room+Security+%26+Climate+Alert+System)
 
 ## 🔄 How It Works
 
@@ -54,7 +54,7 @@ The system continuously monitors the room using multiple sensors.
 ## 📂 Project Structure
 
 ```text
-Smart-Room-Security-Climate-Alert/
+Smart-Room-Security-Climate-Alert-System/
 │
 ├── diagram.json
 ├── sketch.ino
@@ -68,18 +68,14 @@ The complete project is simulated using **Wokwi**, allowing the sensors, LEDs, b
 
 ### Wokwi Project
 
-👉 Add your Wokwi simulation link here:
-
-```text
-[https://wokwi.com/projects/YOUR_PROJECT_ID](https://wokwi.com/projects/470902312305428481)
-```
+👉 [Open Wokwi Simulation](https://wokwi.com/projects/470902312305428481)
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-[(https://github.com/Alamin9462/Smart-Room-Security-Climate-Alert-System.git)]
+git clone https://github.com/Alamin9462/Smart-Room-Security-Climate-Alert-System.git
 ```
 
 ### 2. Open the Project
@@ -126,7 +122,3 @@ Possible future upgrades include:
 Computer Science & Engineering
 
 Southeast University
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
