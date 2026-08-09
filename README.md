@@ -37,9 +37,9 @@ This project is developed and simulated using **Wokwi**.
 
 The system continuously monitors the room using multiple sensors.
 
-```text
-      
-```
+## 📸 Project Preview
+
+![Smart Room Security & Climate Alert System]([PASTE_IMAGE_LINK_HERE](https://raw.githubusercontent.com/Alamin9462/Smart-Room-Security-Climate-Alert-System/816fba99bd54e6d1cbae32c2ea09c206fb41c3cf/Room%20security%201.PNG))
 
 ## 🔄 How It Works
 
@@ -71,7 +71,7 @@ The complete project is simulated using **Wokwi**, allowing the sensors, LEDs, b
 👉 Add your Wokwi simulation link here:
 
 ```text
-https://wokwi.com/projects/YOUR_PROJECT_ID
+[https://wokwi.com/projects/YOUR_PROJECT_ID](https://wokwi.com/projects/470902312305428481)
 ```
 
 ## 🚀 Getting Started
@@ -79,7 +79,7 @@ https://wokwi.com/projects/YOUR_PROJECT_ID
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Room-Security-Climate-Alert.git
+[(https://github.com/Alamin9462/Smart-Room-Security-Climate-Alert-System.git)]
 ```
 
 ### 2. Open the Project
