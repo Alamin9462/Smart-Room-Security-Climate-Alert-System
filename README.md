@@ -39,7 +39,7 @@ The system continuously monitors the room using multiple sensors.
 
 ## 📸 Project Preview
 
-![Smart Room Security & Climate Alert System](https://via.placeholder.com/1200x600.png?text=Smart+Room+Security+%26+Climate+Alert+System)
+![Smart Room Security & Climate Alert System](https://raw.githubusercontent.com/Alamin9462/Smart-Room-Security-Climate-Alert-System/refs/heads/main/Room%20security%201.PNG)
 
 ## 🔄 How It Works
 
